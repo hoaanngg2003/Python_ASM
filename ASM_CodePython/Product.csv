@@ -1,0 +1,500 @@
+ProductID,ProductName,Category,Price
+PID1,Samsung Galaxy S21,Smartphone,$934.98 
+PID2,iPhone 12 Pro Max,Smartphone,$372.13 
+PID3,Samsung Galaxy S21 Ultra,Smartphone,"$1,856.98 "
+PID4,Google Pixel 5,Smartphone,"$1,798.79 "
+PID5,OnePlus 9 Pro,Smartphone,"$1,612.94 "
+PID6,Xiaomi Mi 11,Smartphone,$914.18 
+PID7,Apple MacBook Pro,Laptop,$182.82 
+PID8,Dell XPS 13,Laptop,"$1,918.93 "
+PID9,HP Spectre x360,Laptop,"$2,594.44 "
+PID10,Lenovo ThinkPad X1 Carbon,Laptop,"$2,500.62 "
+PID11,Asus ROG Zephyrus G14,Laptop,$932.95 
+PID12,Samsung QLED Q90T,Television,"$5,078.11 "
+PID13,LG OLED CX,Television,"$2,645.55 "
+PID14,Sony Bravia A8H,Television,"$2,076.09 "
+PID15,TCL 6-Series,Television,"$5,344.37 "
+PID16,Vizio P-Series Quantum X,Television,"$1,990.03 "
+PID17,Samsung Front Load Washer,Washer,"$5,000.72 "
+PID18,LG TurboWash Top Load Washer,Washer,"$4,428.38 "
+PID19,Whirlpool Cabrio High-Efficiency Washer,Washer,"$3,452.94 "
+PID20,Bosch 800 Series Front Load Washer,Washer,"$3,800.33 "
+PID21,Maytag Bravos XL Top Load Washer,Washer,"$10,000.83 "
+PID22,iPhone 13,Smartphone,"$2,961.22 "
+PID23,iPhone 13 Pro Max,Smartphone,"$3,050.48 "
+PID24,iPhone 14 Pro Max,Smartphone,"$4,200.34 "
+PID25,iPhone 15 Pro Max,Smartphone,"$5,200.70 "
+PID26,iPhone 14,Smartphone,"$3,032.78 "
+PID27,iPhone 15,Smartphone,"$4,000.71 "
+PID28,Canon EOS 5D Mark IV,Cameras,"$5,000.41 "
+PID29,Nikon D850,Cameras,"$1,966.43 "
+PID30,Sony Alpha a7 III,Cameras,$784.09 
+PID31,Fujifilm X-T4,Cameras,"$2,870.60 "
+PID32,Panasonic Lumix GH5,Cameras,$618.00 
+PID33,Lenovo Tab M10 Plus,Tablets,"$1,982.55 "
+PID34,Google Pixel Slate,Tablets,$780.48 
+PID35,Asus ZenPad 3S 10,Tablets,"$2,517.46 "
+PID36,Sony Xperia Tablet Z4,Tablets,$757.11 
+PID37,Microsoft Surface Go 2,Tablets,$614.20 
+PID38,Samsung Galaxy Tab A7,Tablets,"$2,672.87 "
+PID39,Huawei MediaPad M5 Lite,Tablets,$448.66 
+PID40,Amazon Fire HD 8,Tablets,"$2,295.45 "
+PID41,Apple iPad Air,Tablets,"$1,181.18 "
+PID42,Lenovo Yoga Smart Tab,Tablets,"$2,048.26 "
+PID43,Samsung Galaxy Tab S6 Lite,Tablets,$145.75 
+PID44,Xiaomi Mi Pad 5,Tablets,$313.57 
+PID45,Dell Venue 8 Pro,Tablets,"$1,321.20 "
+PID46,HP Elite x2 1013 G3,Tablets,"$2,980.04 "
+PID47,Acer Iconia One 10,Tablets,"$1,596.02 "
+PID48,Chuwi Hi9 Pro,Tablets,"$1,403.02 "
+PID49,Asus Transformer Pad TF103C,Tablets,"$2,474.63 "
+PID50,Alcatel 3T 8,Tablets,$586.34 
+PID51,RCA Voyager 7,Tablets,"$2,763.73 "
+PID52,Teclast P10HD,Tablets,$643.29 
+PID53,HP LaserJet Pro MFP M281fdw,Tablets,"$1,833.08 "
+PID54,Canon PIXMA MX922,Printer,"$1,368.16 "
+PID55,Epson EcoTank ET-4760,Printer,"$2,822.80 "
+PID56,Brother HL-L2380DW,Printer,"$2,141.73 "
+PID57,Dell E310dw,Printer,"$1,983.40 "
+PID58,Samsung Xpress M2020W,Printer,$446.47 
+PID59,Lexmark MB2236adw,Printer,$49.48 
+PID60,Xerox WorkCentre 3345/DNI,Printer,$429.75 
+PID61,Ricoh SP C261SFNw,Printer,$444.96 
+PID62,Kyocera Ecosys P5021cdw,Printer,$389.60 
+PID63,HP OfficeJet Pro 9025,Printer,$765.18 
+PID64,Canon imageCLASS MF264dw,Printer,$550.62 
+PID65,Epson WorkForce Pro WF-4830,Printer,"$2,830.61 "
+PID66,Brother MFC-L2750DW,Printer,"$1,933.58 "
+PID67,Dell Color Cloud Multifunction Printer H625cdw,Printer,$943.83 
+PID68,Samsung ProXpress M4583FX,Printer,$367.58 
+PID69,Lexmark MC3224dwe,Printer,$479.19 
+PID70,Xerox VersaLink C405/DN,Printer,$638.89 
+PID71,Ricoh Aficio SP 3710SF,Printer,"$1,465.59 "
+PID72,Kyocera TASKalfa 3253ci,Printer,"$2,566.73 "
+PID73,Daikin Inverter Split Air Conditioner,Air Conditioner,$769.41 
+PID74,Mitsubishi Electric Ductless Mini-Split Air Conditioner,Air Conditioner,"$2,471.05 "
+PID75,LG Dual Inverter Window Air Conditioner,Air Conditioner,$673.15 
+PID76,Panasonic 1.5 Ton 5-Star Split Air Conditioner,Air Conditioner,"$1,143.56 "
+PID77,Samsung Wind-Free Air Conditioner,Air Conditioner,"$2,029.05 "
+PID78,Carrier Infinity Series Air Conditioner,Air Conditioner,$776.04 
+PID79,Fujitsu General Wall-Mounted Air Conditioner,Air Conditioner,$128.06 
+PID80,Hitachi Split Air Conditioner,Air Conditioner,$320.44 
+PID81,Toshiba Portable Air Conditioner,Air Conditioner,"$2,191.56 "
+PID82,Haier Window Air Conditioner,Air Conditioner,"$1,965.48 "
+PID83,Voltas Inverter Split Air Conditioner,Air Conditioner,$780.35 
+PID84,Whirlpool 3D Cool Split Air Conditioner,Air Conditioner,"$1,045.67 "
+PID85,Blue Star Inverter Split Air Conditioner,Air Conditioner,$329.67 
+PID86,Godrej Window Air Conditioner,Air Conditioner,"$2,105.59 "
+PID87,O General Split Air Conditioner,Air Conditioner,$371.00 
+PID88,Rheem Classic Plus Series Air Conditioner,Air Conditioner,"$2,165.28 "
+PID89,Trane XV20i Variable Speed Air Conditioner,Air Conditioner,"$2,117.61 "
+PID90,York Affinity Series Air Conditioner,Air Conditioner,$840.63 
+PID91,Sharp Inverter Window Air Conditioner,Air Conditioner,$504.52 
+PID92,Kenmore Elite Smart Air Conditioner,Air Conditioner,"$2,732.14 "
+PID93,Gree Inverter Split Air Conditioner,Air Conditioner,"$1,102.11 "
+PID94,Midea U-Shaped Window Air Conditioner,Air Conditioner,"$2,552.49 "
+PID95,Hisense Portable Air Conditioner,Air Conditioner,"$2,930.55 "
+PID96,PIONEER Diamante Series Mini Split Air Conditioner,Air Conditioner,"$2,536.79 "
+PID97,Senville SENL Inverter Split Air Conditioner,Air Conditioner,"$2,568.27 "
+PID98,TCL Window Air Conditioner,Air Conditioner,"$1,957.66 "
+PID99,Onida Split Air Conditioner,Air Conditioner,"$2,417.12 "
+PID100,Carrier Performance Series Air Conditioner,Air Conditioner,"$2,450.66 "
+PID101,Daewoo Portable Air Conditioner,Air Conditioner,$139.95 
+PID102,Electrolux Inverter Split Air Conditioner,Air Conditioner,"$1,987.37 "
+PID103,Bose SoundLink Revolve,Speaker,"$1,321.99 "
+PID104,JBL Flip 5,Speaker,$609.43 
+PID105,Sonos One,Speaker,$54.50 
+PID106,Harman Kardon Aura Studio 3,Speaker,"$2,638.22 "
+PID107,Marshall Kilburn II,Speaker,"$2,851.48 "
+PID108,Sony SRS-XB43,Speaker,"$2,662.54 "
+PID109,Ultimate Ears Megaboom 3,Speaker,$656.56 
+PID110,Bang & Olufsen Beoplay A9,Speaker,"$2,118.06 "
+PID111,Klipsch RP-600M,Speaker,"$2,241.99 "
+PID112,Yamaha NS-6490,Speaker,$135.72 
+PID113,Bowers & Wilkins Formation Duo,Speaker,"$1,629.75 "
+PID114,KEF LS50 Wireless II,Speaker,"$2,440.60 "
+PID115,Denon Home 350,Speaker,"$1,588.82 "
+PID116,Sennheiser Ambeo Soundbar,Speaker,"$1,778.87 "
+PID117,Apple HomePod,Speaker,"$1,316.58 "
+PID118,Bang & Olufsen Beosound Edge,Speaker,"$2,924.67 "
+PID119,Audio Pro Addon C10,Speaker,"$1,306.56 "
+PID120,Polk Audio T50,Speaker,"$2,639.06 "
+PID121,Marshall Acton II Bluetooth,Speaker,$898.16 
+PID122,Anker Soundcore Motion+,Speaker,"$2,647.70 "
+PID123,Focal Chora 826,Speaker,$779.77 
+PID124,Edifier R1280T,Speaker,$529.31 
+PID125,Klipsch The Fives,Speaker,"$1,274.73 "
+PID126,Sonos Arc,Speaker,"$2,973.45 "
+PID127,JBL Charge 4,Speaker,"$1,855.61 "
+PID128,Sony SRS-XB33,Speaker,$458.17 
+PID129,Bose SoundTouch 30,Speaker,"$2,376.71 "
+PID130,Ultimate Ears Wonderboom 2,Speaker,"$1,560.65 "
+PID131,Harman Kardon Onyx Studio 6,Speaker,$107.37 
+PID132,Devialet Phantom Reactor 900,Speaker,"$1,733.60 "
+PID133,Apple iMac,Desktop Computers,$379.92 
+PID134,Dell XPS Tower,Desktop Computers,"$1,406.88 "
+PID135,HP Pavilion Desktop,Desktop Computers,$485.80 
+PID136,Lenovo ThinkCentre M Series,Desktop Computers,"$1,840.57 "
+PID137,Microsoft Surface Studio,Desktop Computers,"$2,408.17 "
+PID138,Acer Aspire TC Series,Desktop Computers,"$1,679.53 "
+PID139,Asus ROG Strix GL12,Desktop Computers,$499.18 
+PID140,Alienware Aurora R10,Desktop Computers,"$1,845.40 "
+PID141,MSI Trident 3,Desktop Computers,"$2,654.13 "
+PID142,Intel NUC (Next Unit of Computing),Desktop Computers,"$2,949.55 "
+PID143,HP EliteDesk,Desktop Computers,$68.59 
+PID144,Dell OptiPlex,Desktop Computers,"$2,120.39 "
+PID145,Lenovo IdeaCentre,Desktop Computers,"$2,810.94 "
+PID146,Apple Mac Mini,Desktop Computers,$556.95 
+PID147,HP Envy Desktop,Desktop Computers,"$2,042.41 "
+PID148,Asus VivoPC Series,Desktop Computers,"$1,629.28 "
+PID149,CyberPowerPC Gamer Xtreme VR,Desktop Computers,"$1,548.22 "
+PID150,Acer Predator Orion,Desktop Computers,"$1,310.84 "
+PID151,Lenovo Legion Tower,Desktop Computers,"$1,325.20 "
+PID152,Dell Precision Workstation,Desktop Computers,"$1,373.25 "
+PID153,Microsoft Surface Studio 2,Desktop Computers,"$2,627.58 "
+PID154,HP ProDesk,Desktop Computers,"$1,313.34 "
+PID155,Asus ROG G20,Desktop Computers,"$2,537.40 "
+PID156,Zotac Magnus Mini PC,Desktop Computers,"$1,283.66 "
+PID157,Intel Skull Canyon NUC,Desktop Computers,"$2,683.58 "
+PID158,HP Slimline,Desktop Computers,"$1,086.19 "
+PID159,Dell Inspiron Desktop,Desktop Computers,"$2,753.72 "
+PID160,Lenovo Yoga AIO,Desktop Computers,"$1,418.68 "
+PID161,Apple Mac Pro,Desktop Computers,"$2,976.53 "
+PID162,Asus ProArt PA90,Desktop Computers,"$2,934.42 "
+PID163,Sony Handycam FDR-AX53,Camcorders,$999.65 
+PID164,Canon VIXIA HF G50,Camcorders,"$1,995.70 "
+PID165,Panasonic HC-VX1K,Camcorders,$455.80 
+PID166,JVC Everio GZ-RY980,Camcorders,"$2,707.12 "
+PID167,GoPro HERO9 Black,Camcorders,"$1,244.66 "
+PID168,DJI Osmo Pocket,Camcorders,"$2,107.79 "
+PID169,Sony FDR-AX700,Camcorders,$180.53 
+PID170,Canon XA40,Camcorders,"$1,172.24 "
+PID171,Panasonic HC-WXF1K,Camcorders,"$1,318.79 "
+PID172,Blackmagic Design Pocket Cinema Camera 6K,Camcorders,$632.87 
+PID173,GoPro HERO8 Black,Camcorders,$613.72 
+PID174,Sony PXW-Z190,Camcorders,"$2,715.53 "
+PID175,Canon XF705,Camcorders,"$1,731.79 "
+PID176,Panasonic HC-X1000,Camcorders,"$1,170.19 "
+PID177,JVC GY-HM250,Camcorders,"$1,296.97 "
+PID178,DJI Osmo Action,Camcorders,$46.79 
+PID179,Sony HDR-CX405,Camcorders,$419.03 
+PID180,Canon VIXIA HF G21,Camcorders,"$1,284.26 "
+PID181,Panasonic HC-V770K,Camcorders,"$1,012.12 "
+PID182,GoPro HERO7 Black,Camcorders,$294.65 
+PID183,Sony FDR-AX100,Camcorders,"$2,138.65 "
+PID184,Canon XA11,Camcorders,$424.60 
+PID185,Panasonic HC-V180K,Camcorders,$21.83 
+PID186,JVC GY-HM170,Camcorders,$669.16 
+PID187,DJI Osmo Mobile 3,Camcorders,"$1,355.90 "
+PID188,Sony HXR-NX80,Camcorders,$115.67 
+PID189,Canon XF405,Camcorders,$912.22 
+PID190,Panasonic HC-WXF991K,Camcorders,"$2,249.37 "
+PID191,GoPro HERO6 Black,Camcorders,"$1,873.48 "
+PID192,Sony FDR-AX33,Camcorders,$647.32 
+PID193,Sony WH-1000XM4,Headphones,"$1,357.99 "
+PID194,Bose QuietComfort 35 II,Headphones,"$2,303.48 "
+PID195,Apple AirPods Pro,Headphones,"$2,682.67 "
+PID196,Sennheiser HD 660 S,Headphones,"$1,949.49 "
+PID197,Beyerdynamic DT 990 Pro,Headphones,"$2,103.39 "
+PID198,Audio-Technica ATH-M50x,Headphones,"$2,091.23 "
+PID199,JBL E55BT,Headphones,"$2,864.65 "
+PID200,Beats Studio3 Wireless,Headphones,"$1,951.62 "
+PID201,Shure SE215,Headphones,"$1,645.99 "
+PID202,AKG K240 Studio,Headphones,"$1,143.99 "
+PID203,Sony WF-1000XM4,Headphones,$454.36 
+PID204,Bose SoundLink Around-Ear Wireless Headphones II,Headphones,$161.89 
+PID205,Jabra Elite 85t,Headphones,"$1,635.80 "
+PID206,Sennheiser Momentum 3 Wireless,Headphones,$867.94 
+PID207,Beyerdynamic Amiron Wireless,Headphones,"$1,476.78 "
+PID208,Audio-Technica ATH-MSR7,Headphones,"$1,558.30 "
+PID209,JBL Free X,Headphones,"$2,446.96 "
+PID210,Beats Powerbeats Pro,Headphones,"$2,004.42 "
+PID211,Shure AONIC 50,Headphones,"$1,582.40 "
+PID212,AKG N700NC,Headphones,"$1,398.59 "
+PID213,Sony WH-1000XM3,Headphones,$109.63 
+PID214,Bose QuietComfort Earbuds,Headphones,"$2,206.39 "
+PID215,Apple AirPods Max,Headphones,$351.95 
+PID216,Sennheiser HD 660 S,Headphones,"$1,365.60 "
+PID217,Beyerdynamic DT 770 Pro,Headphones,"$2,926.51 "
+PID218,Audio-Technica ATH-ANC700BT,Headphones,$388.80 
+PID219,JBL Tune 500BT,Headphones,"$1,500.50 "
+PID220,Beats Solo Pro,Headphones,$842.61 
+PID221,Shure SE535,Headphones,$493.57 
+PID222,AKG K371,Headphones,"$1,999.34 "
+PID223,Sonos Move Portable Speaker,Audio Devices,"$2,130.58 "
+PID224,Bose SoundLink Revolve+ Bluetooth Speaker,Audio Devices,"$1,561.86 "
+PID225,JBL Charge 4 Portable Bluetooth Speaker,Audio Devices,"$1,805.32 "
+PID226,Sony SRS-XB43 Extra Bass Wireless Speaker,Audio Devices,"$1,972.10 "
+PID227,Harman Kardon Onyx Studio 6 Wireless Speaker,Audio Devices,"$1,768.52 "
+PID228,Apple HomePod Mini Smart Speaker,Audio Devices,"$1,155.50 "
+PID229,Marshall Kilburn II Portable Bluetooth Speaker,Audio Devices,"$2,151.17 "
+PID230,Ultimate Ears Boom 3 Portable Waterproof Bluetooth Speaker,Audio Devices,"$1,123.15 "
+PID231,Bang & Olufsen Beoplay A9 Wireless Speaker,Audio Devices,$294.88 
+PID232,Klipsch The Fives Powered Bookshelf Speakers,Audio Devices,"$2,108.86 "
+PID233,Yamaha YAS-209 Soundbar with Wireless Subwoofer,Audio Devices,"$2,015.75 "
+PID234,Denon AVR-S750H 7.2-Channel Receiver,Audio Devices,"$2,018.03 "
+PID235,Sennheiser HD 660 S Open-Back Headphones,Audio Devices,$364.68 
+PID236,Audio-Technica ATH-M50x Professional Studio Headphones,Audio Devices,"$1,747.84 "
+PID237,Beats Solo Pro Wireless Noise Cancelling On-Ear Headphones,Audio Devices,"$2,158.72 "
+PID238,Shure SM58 Dynamic Vocal Microphone,Audio Devices,$425.50 
+PID239,Rode NT1 Condenser Microphone,Audio Devices,"$1,441.94 "
+PID240,Zoom H6 Handy Recorder,Audio Devices,"$1,088.62 "
+PID241,Focusrite Scarlett 2i2 USB Audio Interface,Audio Devices,"$2,421.04 "
+PID242,Pioneer DJ DDJ-1000 Professional DJ Controller,Audio Devices,$996.75 
+PID243,Native Instruments Maschine MK3 Groove Production Studio,Audio Devices,$228.59 
+PID244,Roland TD-17KVX V-Drums Electronic Drum Set,Audio Devices,"$1,549.32 "
+PID245,Fender American Professional II Stratocaster Electric Guitar,Audio Devices,"$1,606.86 "
+PID246,Gibson Les Paul Standard '50s Electric Guitar,Audio Devices,$243.89 
+PID247,Taylor 314ce Grand Auditorium Acoustic-Electric Guitar,Audio Devices,"$2,280.28 "
+PID248,Steinway Model D Concert Grand Piano,Audio Devices,"$2,856.88 "
+PID249,Korg Kronos 88-Key Music Workstation,Audio Devices,$526.79 
+PID250,Moog Subsequent 37 Analog Synthesizer,Audio Devices,$599.94 
+PID251,Neumann U87 Ai Studio Condenser Microphone,Audio Devices,$585.12 
+PID252,AKG C414 XLII Large-Diaphragm Condenser Microphone,Audio Devices,"$1,837.61 "
+PID253,Amazon Echo (4th generation) - Smart Speaker with Alexa,Smart Home Devices,"$2,288.92 "
+PID254,Google Nest Hub (2nd generation) - Smart Display with Google Assistant,Smart Home Devices,"$1,702.33 "
+PID255,Philips Hue White and Color Ambiance Starter Kit - Smart Lighting System,Smart Home Devices,$925.30 
+PID256,Ring Video Doorbell Pro - Smart Doorbell with Camera,Smart Home Devices,"$1,116.11 "
+PID257,Ecobee SmartThermostat with Voice Control - Smart Thermostat,Smart Home Devices,"$2,968.33 "
+PID258,August Wi-Fi Smart Lock - Smart Door Lock,Smart Home Devices,$175.11 
+PID259,Arlo Pro 4 - Wireless Security Camera System,Smart Home Devices,$956.97 
+PID260,Nest Learning Thermostat - Smart Thermostat,Smart Home Devices,$506.30 
+PID261,Samsung SmartThings Hub - Smart Home Automation Hub,Smart Home Devices,$309.23 
+PID262,Wyze Cam Pan - Smart Indoor Security Camera,Smart Home Devices,"$2,157.95 "
+PID263,Lutron Caseta Wireless Smart Lighting Dimmer Switch Starter Kit,Smart Home Devices,"$2,989.00 "
+PID264,Logitech Harmony Elite - Universal Remote Control,Smart Home Devices,"$2,650.51 "
+PID265,SimpliSafe Home Security System - Smart Security System,Smart Home Devices,"$2,475.10 "
+PID266,Eero Pro 6 - Mesh Wi-Fi System,Smart Home Devices,"$1,378.70 "
+PID267,iRobot Roomba i7+ - Smart Robot Vacuum,Smart Home Devices,"$1,988.38 "
+PID268,TP-Link Kasa Smart Plug - Smart Plug with Energy Monitoring,Smart Home Devices,"$2,956.68 "
+PID269,Yale Assure Lock SL - Smart Lock with Touchscreen Keypad,Smart Home Devices,$396.35 
+PID270,Wemo Mini Smart Plug - Smart Plug with Wi-Fi,Smart Home Devices,"$1,402.61 "
+PID271,Rachio 3 Smart Sprinkler Controller - Smart Irrigation Controller,Smart Home Devices,"$2,512.28 "
+PID272,Nanoleaf Canvas - Smart LED Light Panels,Smart Home Devices,"$2,620.27 "
+PID273,Netgear Orbi RBK50 - Whole Home Mesh Wi-Fi System,Smart Home Devices,"$1,555.54 "
+PID274,Chamberlain MyQ Smart Garage Door Opener - Smart Garage Door Controller,Smart Home Devices,$141.26 
+PID275,Hue Play HDMI Sync Box - Smart Device for Syncing Lights with TV,Smart Home Devices,"$1,016.67 "
+PID276,Ring Alarm Security Kit - Smart Home Security System,Smart Home Devices,"$2,734.46 "
+PID277,Google Nest Protect - Smart Smoke and Carbon Monoxide Alarm,Smart Home Devices,"$1,032.23 "
+PID278,Ecovacs Deebot N8 Pro+ - Smart Robot Vacuum and Mop,Smart Home Devices,"$1,470.88 "
+PID279,TP-Link Kasa Smart Light Switch - Smart Light Switch with Dimmer,Smart Home Devices,"$2,523.55 "
+PID280,Netatmo Weather Station - Smart Weather Monitoring System,Smart Home Devices,"$1,929.78 "
+PID281,First Alert Onelink Safe & Sound - Smart Smoke and Carbon Monoxide Alarm with Speaker and Alexa,Smart Home Devices,"$1,528.87 "
+PID282,Aqara Smart Home Starter Kit - Smart Home Automation Kit,Smart Home Devices,"$1,400.15 "
+PID283,Sony PlayStation 5,Gaming Consoles,"$1,863.27 "
+PID284,Microsoft Xbox Series X,Gaming Consoles,"$1,453.34 "
+PID285,Nintendo Switch,Gaming Consoles,"$1,278.62 "
+PID286,Sony PlayStation 4,Gaming Consoles,"$1,298.48 "
+PID287,Microsoft Xbox One X,Gaming Consoles,"$1,248.36 "
+PID288,Nintendo Switch Lite,Gaming Consoles,"$2,134.61 "
+PID289,Sony PlayStation 4 Pro,Gaming Consoles,"$2,684.66 "
+PID290,Microsoft Xbox One S,Gaming Consoles,"$1,635.64 "
+PID291,Nintendo 3DS XL,Gaming Consoles,"$2,611.87 "
+PID292,Sony PlayStation 3,Gaming Consoles,"$2,496.68 "
+PID293,Microsoft Xbox 360,Gaming Consoles,"$2,857.87 "
+PID294,Nintendo Wii U,Gaming Consoles,"$2,003.32 "
+PID295,Sony PlayStation 2,Gaming Consoles,"$1,413.34 "
+PID296,Nintendo DS Lite,Gaming Consoles,"$2,673.96 "
+PID297,Microsoft Xbox,Gaming Consoles,"$1,885.35 "
+PID298,Nintendo GameCube,Gaming Consoles,"$1,288.07 "
+PID299,Sega Dreamcast,Gaming Consoles,"$1,351.92 "
+PID300,Atari 2600,Gaming Consoles,"$1,808.43 "
+PID301,Super Nintendo Entertainment System (SNES),Gaming Consoles,"$1,545.62 "
+PID302,Sega Genesis,Gaming Consoles,"$2,205.86 "
+PID303,Nintendo Entertainment System (NES),Gaming Consoles,"$2,238.61 "
+PID304,Sony PSP (PlayStation Portable),Gaming Consoles,"$2,032.87 "
+PID305,Neo Geo AES,Gaming Consoles,"$1,870.85 "
+PID306,Sega Saturn,Gaming Consoles,"$1,196.86 "
+PID307,TurboGrafx-16,Gaming Consoles,"$2,858.37 "
+PID308,Philips CD-i,Gaming Consoles,"$1,626.38 "
+PID309,ColecoVision,Gaming Consoles,"$1,787.31 "
+PID310,Intellivision,Gaming Consoles,"$2,286.57 "
+PID311,Magnavox Odyssey,Gaming Consoles,"$1,465.37 "
+PID312,Atari 5200,Gaming Consoles,"$1,185.28 "
+PID313,Xbox Wireless Controller (Microsoft),Gaming Accessories,$807.69 
+PID314,DualSense Wireless Controller (Sony),Gaming Accessories,"$2,067.74 "
+PID315,Nintendo Switch Pro Controller (Nintendo),Gaming Accessories,"$1,364.86 "
+PID316,Razer DeathAdder Elite Gaming Mouse,Gaming Accessories,$284.78 
+PID317,Logitech G502 Hero Gaming Mouse,Gaming Accessories,"$2,613.23 "
+PID318,SteelSeries Arctis Pro Wireless Gaming Headset,Gaming Accessories,$850.61 
+PID319,HyperX Cloud II Gaming Headset,Gaming Accessories,"$2,685.34 "
+PID320,Astro A40 TR Gaming Headset,Gaming Accessories,$185.20 
+PID321,Corsair K70 RGB Mechanical Gaming Keyboard,Gaming Accessories,"$1,222.27 "
+PID322,Razer Huntsman Elite Gaming Keyboard,Gaming Accessories,$847.55 
+PID323,Logitech G29 Driving Force Racing Wheel (for PlayStation),Gaming Accessories,"$1,728.41 "
+PID324,Thrustmaster T300 RS GT Racing Wheel (for PlayStation),Gaming Accessories,"$2,277.97 "
+PID325,Xbox Elite Wireless Controller Series 2 (Microsoft),Gaming Accessories,$619.34 
+PID326,Scuf Gaming Impact Controller,Gaming Accessories,"$2,334.61 "
+PID327,Elgato Stream Deck,Gaming Accessories,$642.14 
+PID328,Blue Yeti USB Microphone,Gaming Accessories,"$1,014.01 "
+PID329,Razer Kraken Tournament Edition Gaming Headset,Gaming Accessories,$928.34 
+PID330,SteelSeries QcK Gaming Mouse Pad,Gaming Accessories,"$2,519.48 "
+PID331,Corsair MM300 Extended Gaming Mouse Pad,Gaming Accessories,"$2,094.08 "
+PID332,Razer Firefly Chroma Gaming Mouse Pad,Gaming Accessories,"$1,659.14 "
+PID333,HyperX Alloy FPS Mechanical Gaming Keyboard,Gaming Accessories,"$1,700.64 "
+PID334,Turtle Beach Stealth 600 Wireless Gaming Headset,Gaming Accessories,"$1,445.97 "
+PID335,Logitech G Pro X Gaming Headset,Gaming Accessories,"$1,146.97 "
+PID336,Xbox Play and Charge Kit (Microsoft),Gaming Accessories,"$2,073.50 "
+PID337,PlayStation VR (Sony),Gaming Accessories,"$1,045.98 "
+PID338,Western Digital My Passport External Hard Drive,Data Storage Devices,"$1,717.02 "
+PID339,Seagate Backup Plus Portable External Hard Drive,Data Storage Devices,$20.15 
+PID340,Samsung T5 Portable SSD,Data Storage Devices,$779.51 
+PID341,SanDisk Extreme Portable SSD,Data Storage Devices,"$1,287.68 "
+PID342,LaCie Rugged USB-C External Hard Drive,Data Storage Devices,"$1,820.14 "
+PID343,Crucial MX500 Internal Solid State Drive (SSD),Data Storage Devices,"$1,369.85 "
+PID344,Kingston DataTraveler USB Flash Drive,Data Storage Devices,"$2,476.37 "
+PID345,WD Elements Desktop External Hard Drive,Data Storage Devices,"$2,315.35 "
+PID346,Seagate BarraCuda Internal Hard Drive,Data Storage Devices,"$2,332.89 "
+PID347,Samsung 970 EVO Plus NVMe M.2 SSD,Data Storage Devices,"$1,129.67 "
+PID348,SanDisk Ultra Dual Drive USB Type-C Flash Drive,Data Storage Devices,$425.86 
+PID349,Toshiba Canvio Advance Portable External Hard Drive,Data Storage Devices,$253.50 
+PID350,G-Technology G-DRIVE USB-C External Hard Drive,Data Storage Devices,"$1,505.23 "
+PID351,Corsair Force Series MP600 NVMe M.2 SSD,Data Storage Devices,$139.52 
+PID352,Lexar Professional USB 3.0 Dual-Slot Reader,Data Storage Devices,$669.82 
+PID353,Transcend StoreJet Portable Hard Drive,Data Storage Devices,"$2,593.72 "
+PID354,Adata XPG SX8200 Pro NVMe M.2 SSD,Data Storage Devices,$71.96 
+PID355,Sony Professional XQD Memory Card,Data Storage Devices,$212.82 
+PID356,PNY Elite-X Fit USB 3.0 Flash Drive,Data Storage Devices,"$2,706.07 "
+PID357,WD Red NAS Internal Hard Drive,Data Storage Devices,"$2,797.22 "
+PID358,Seagate Expansion Desktop External Hard Drive,Data Storage Devices,"$2,783.92 "
+PID359,Samsung 860 EVO SATA III Internal SSD,Data Storage Devices,$149.88 
+PID360,SanDisk iXpand Flash Drive,Data Storage Devices,$918.36 
+PID361,LaCie Porsche Design Desktop Drive,Data Storage Devices,"$2,543.44 "
+PID362,Crucial P1 NVMe PCIe M.2 SSD,Data Storage Devices,"$2,959.15 "
+PID363,Kingston Canvas Select Plus SD Card,Data Storage Devices,$230.64 
+PID364,WD Black SN750 NVMe Internal Gaming SSD,Data Storage Devices,$703.23 
+PID365,Seagate IronWolf NAS Internal Hard Drive,Data Storage Devices,$292.14 
+PID366,Samsung Portable SSD T7 Touch,Data Storage Devices,$775.10 
+PID367,SanDisk Ultra microSDXC Memory Card,Data Storage Devices,"$2,275.93 "
+PID368,Cisco Catalyst 9000 Series Switches,Networking Devices,$714.73 
+PID369,Juniper Networks EX Series Ethernet Switches,Networking Devices,"$1,931.48 "
+PID370,Aruba Networks Instant On Access Points,Networking Devices,"$2,181.91 "
+PID371,Ubiquiti UniFi Dream Machine Pro,Networking Devices,"$2,334.42 "
+PID372,HPE OfficeConnect Switches,Networking Devices,"$2,152.65 "
+PID373,Netgear Nighthawk AX12 Router,Networking Devices,$316.22 
+PID374,TP-Link Archer A9 Wireless Router,Networking Devices,"$2,735.98 "
+PID375,D-Link DIR-867 Wireless Router,Networking Devices,"$1,423.26 "
+PID376,ASUS RT-AX88U Gaming Router,Networking Devices,$87.23 
+PID377,Linksys Velop Mesh Wi-Fi System,Networking Devices,"$2,107.71 "
+PID378,Cisco Meraki MX Security Appliances,Networking Devices,"$1,742.70 "
+PID379,Juniper Networks SRX Series Firewalls,Networking Devices,$489.28 
+PID380,Fortinet FortiGate Next-Generation Firewalls,Networking Devices,"$1,642.91 "
+PID381,Palo Alto Networks PA Series Firewalls,Networking Devices,"$2,448.61 "
+PID382,Ubiquiti UniFi Security Gateway,Networking Devices,"$2,934.62 "
+PID383,HPE OfficeConnect Routers,Networking Devices,$382.66 
+PID384,Netgear Orbi Mesh Wi-Fi System,Networking Devices,"$2,204.38 "
+PID385,TP-Link Deco Whole Home Mesh Wi-Fi System,Networking Devices,"$2,866.40 "
+PID386,D-Link COVR Whole Home Mesh Wi-Fi System,Networking Devices,"$2,548.99 "
+PID387,ASUS RT-AC5300 Tri-Band Router,Networking Devices,"$2,880.23 "
+PID388,Linksys EA9500 Max-Stream Router,Networking Devices,"$1,801.94 "
+PID389,Cisco RV Series VPN Routers,Networking Devices,$681.56 
+PID390,Juniper Networks ACX Series Universal Access Routers,Networking Devices,"$2,884.06 "
+PID391,Aruba Networks Instant On Switches,Networking Devices,"$2,680.68 "
+PID392,Ubiquiti UniFi Switches,Networking Devices,"$1,094.51 "
+PID393,HPE OfficeConnect Access Points,Networking Devices,"$2,425.56 "
+PID394,Netgear Orbi Outdoor Satellite,Networking Devices,"$1,948.48 "
+PID395,TP-Link RE650 AC2600 Wi-Fi Range Extender,Networking Devices,$125.75 
+PID396,D-Link DAP-1820 AC2000 Wi-Fi Range Extender,Networking Devices,$663.91 
+PID397,ASUS RP-AC68U AC1900 Wi-Fi Range Extender,Networking Devices,"$2,421.53 "
+PID398,Acer Swift 3,Laptop,"$2,373.18 "
+PID399,Razer Blade 15,Laptop,"$2,665.67 "
+PID400,MSI GS65 Stealth,Laptop,"$2,939.03 "
+PID401,Huawei MateBook X Pro,Laptop,"$1,173.66 "
+PID402,LG Gram 14,Laptop,$593.62 
+PID403,Samsung Galaxy Book Flex,Laptop,$192.52 
+PID404,Google Pixelbook Go,Laptop,"$1,156.13 "
+PID405,Toshiba Portege X30,Laptop,"$2,018.58 "
+PID406,Sony VAIO Z,Laptop,$379.73 
+PID407,Asus ZenBook 14,Laptop,$412.39 
+PID408,Dell Inspiron 15 7000,Laptop,$786.15 
+PID409,HP Envy 13,Laptop,"$1,722.80 "
+PID410,Lenovo Yoga C940,Laptop,"$2,719.41 "
+PID411,Microsoft Surface Book 3,Laptop,"$2,808.60 "
+PID412,Acer Predator Helios 300,Laptop,$723.69 
+PID413,Asus ROG Strix Scar III,Laptop,"$2,248.92 "
+PID414,MSI GE66 Raider,Laptop,$353.35 
+PID415,Alienware m17 R4,Laptop,"$1,560.59 "
+PID416,Gigabyte Aero 15 OLED,Laptop,"$2,600.16 "
+PID417,Lenovo Legion Y540,Laptop,$439.40 
+PID418,HP Pavilion 15,Laptop,"$2,212.27 "
+PID419,Dell G5 15 SE,Laptop,"$2,808.47 "
+PID420,Asus VivoBook S15,Laptop,"$1,515.53 "
+PID421,Acer Aspire 5,Laptop,$416.85 
+PID422,Apple MacBook Air,Laptop,$672.90 
+PID423,Lenovo ThinkPad X1 Yoga,Laptop,$734.69 
+PID424,Microsoft Surface Pro 7,Laptop,"$2,972.36 "
+PID425,HP Elite Dragonfly,Laptop,"$1,073.25 "
+PID426,Asus ROG Zephyrus Duo 15,Laptop,"$2,174.38 "
+PID427,MSI Prestige 14,Laptop,"$2,791.12 "
+PID428,Dell Latitude 7410,Laptop,"$1,177.93 "
+PID429,Lenovo IdeaPad 5,Laptop,"$2,179.15 "
+PID430,Acer Chromebook Spin 13,Laptop,$490.88 
+PID431,Samsung Galaxy Chromebook,Laptop,"$1,245.12 "
+PID432,Asus ROG Zephyrus S GX701,Laptop,$600.26 
+PID433,HP Omen 15,Laptop,"$1,428.38 "
+PID434,Razer Blade Stealth 13,Laptop,"$1,381.75 "
+PID435,LG Gram 17,Laptop,$162.41 
+PID436,Microsoft Surface Laptop Go,Laptop,$466.00 
+PID437,Toshiba Tecra X40,Laptop,"$2,465.65 "
+PID438,Sony VAIO SX14,Laptop,$760.10 
+PID439,Asus ZenBook Pro Duo,Laptop,"$2,917.67 "
+PID440,Dell Precision 5550,Laptop,"$2,330.92 "
+PID441,Lenovo ThinkPad T14,Laptop,"$2,490.94 "
+PID442,Apple Watch Series 7,Smartwatches,$181.64 
+PID443,Samsung Galaxy Watch 4,Smartwatches,"$2,004.93 "
+PID444,Garmin Fenix 6 Pro,Smartwatches,"$2,688.09 "
+PID445,Fitbit Versa 3,Smartwatches,"$1,891.62 "
+PID446,Huawei Watch GT 2 Pro,Smartwatches,"$2,063.34 "
+PID447,Fossil Gen 5 Carlyle,Smartwatches,$594.58 
+PID448,Xiaomi Mi Watch,Smartwatches,"$1,983.67 "
+PID449,Amazfit GTR 2,Smartwatches,"$2,028.30 "
+PID450,TicWatch Pro 3,Smartwatches,"$2,645.70 "
+PID451,Suunto 9 Baro,Smartwatches,"$1,504.91 "
+PID452,Polar Vantage V2,Smartwatches,"$2,590.05 "
+PID453,Withings ScanWatch,Smartwatches,$801.21 
+PID454,Oppo Watch,Smartwatches,"$2,310.32 "
+PID455,TAG Heuer Connected,Smartwatches,"$1,181.91 "
+PID456,Mobvoi TicWatch E3,Smartwatches,"$2,857.49 "
+PID457,Garmin Venu 2,Smartwatches,$595.23 
+PID458,Fitbit Sense,Smartwatches,$181.12 
+PID459,Samsung Galaxy Watch Active 2,Smartwatches,"$2,402.48 "
+PID460,Apple Watch SE,Smartwatches,$761.14 
+PID461,Huawei Watch Fit,Smartwatches,"$1,037.98 "
+PID462,Fossil Gen 5 Julianna,Smartwatches,$428.72 
+PID463,Xiaomi Mi Watch Lite,Smartwatches,"$2,094.00 "
+PID464,Amazfit Bip U Pro,Smartwatches,"$1,103.42 "
+PID465,TicWatch C2+,Smartwatches,"$1,055.11 "
+PID466,Suunto 7,Smartwatches,"$1,108.75 "
+PID467,Polar Ignite,Smartwatches,$893.60 
+PID468,Withings Steel HR Sport,Smartwatches,$758.76 
+PID469,Oppo Watch RX,Smartwatches,$118.64 
+PID470,TAG Heuer Carrera Connected,Smartwatches,"$2,988.84 "
+PID471,Mobvoi TicWatch Pro 4G/LTE,Smartwatches,"$1,723.03 "
+PID472,Garmin Forerunner 945,Smartwatches,"$1,239.13 "
+PID473,Fitbit Versa 2,Smartwatches,"$2,432.26 "
+PID474,Samsung Galaxy Watch 3,Smartwatches,"$2,860.90 "
+PID475,Apple Watch Series 6,Smartwatches,"$1,155.06 "
+PID476,Huawei Watch GT 2,Smartwatches,"$2,910.94 "
+PID477,Fossil Gen 5E,Smartwatches,"$2,434.47 "
+PID478,Xiaomi Mi Watch Color,Smartwatches,"$2,229.45 "
+PID479,Amazfit Bip U,Smartwatches,"$1,781.51 "
+PID480,TicWatch GTX,Smartwatches,$301.20 
+PID481,Suunto 5,Smartwatches,$820.13 
+PID482,Polar Grit X,Smartwatches,"$1,301.64 "
+PID483,Withings Move ECG,Smartwatches,$246.73 
+PID484,Oppo Watch 2,Smartwatches,$606.66 
+PID485,TAG Heuer Aquaracer Connected,Smartwatches,$347.88 
+PID486,Mobvoi TicWatch S2,Smartwatches,$725.88 
+PID487,Garmin Vivoactive 4,Smartwatches,"$2,144.75 "
+PID488,Fitbit Ionic,Smartwatches,$553.58 
+PID489,Samsung Galaxy Watch Active,Smartwatches,"$2,061.66 "
+PID490,Apple Watch Series 5,Smartwatches,"$1,026.91 "
+PID491,Huawei Watch GT,Smartwatches,"$1,932.77 "
+PID492,Fitbit Charge 4,Smartwatches,$458.79 
+PID493,Garmin Instinct,Smartwatches,"$1,610.55 "
+PID494,Samsung Galaxy Watch Active 4,Smartwatches,"$1,718.21 "
+PID495,Apple Watch Series 4,Smartwatches,"$1,656.61 "
+PID496,Huawei Watch GT 2e,Smartwatches,"$1,846.90 "
+PID497,Fossil Hybrid HR,Smartwatches,"$1,608.16 "
+PID498,Xiaomi Mi Band 6,Smartwatches,$832.79 
+PID499,Xiaomi Mi Band 5,Smartwatches,"$1,600.82 "
